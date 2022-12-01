@@ -1,6 +1,7 @@
 # images_to_excel
 
 AHK scripts used to paste all the images (resized) from given folder to the new excel file. Used in https://github.com/mban1993/image_scraping-Opals
+
 XL.ahk library included and must be in same directory as other ahk scripts.
 
 You have a folder named 'opals', where are all opal images stored (and only images you want to paste into excel file!).
